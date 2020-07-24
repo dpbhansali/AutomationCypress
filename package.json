@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "node_modules\\.bin\\cypress run",
-    "testdashboard": "npm run test -- --record --key 723342ac-98f3-47d6-ae69-4a037740e5d7"
+    
   },
   "author": "Darshan",
   "license": "ISC",

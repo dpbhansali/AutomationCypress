@@ -1,0 +1,7 @@
+{
+  "defaultCommandTimeout": 20000,
+  "env":{
+      "url":"https://rahulshettyacademy.com"
+  },
+  "projectId": "qjnk8d"
+}

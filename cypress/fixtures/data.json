@@ -1,0 +1,24 @@
+{
+  "userdata":[
+              { "name": "Darshan Bhansali",
+                "email": "hello@cypress.io",
+                "password": "Fixture",
+                "gender":"Male",
+                "birthdate":"2013-12-30"
+              },
+                {"name": "Darshan B",
+                "email": "hello@css.io",
+                "password": "Fixture",
+                "gender":"Male",
+                "birthdate":"2020-07-09"
+              },
+                {"name": "Darsh",
+                "email": "hello@cyps.io",
+                "password": "Fixture",
+                "gender":"Female",
+                "birthdate":"2020-07-09"
+              }
+              ],
+
+  "producttoshop":["Blackberry","iphone"]
+}

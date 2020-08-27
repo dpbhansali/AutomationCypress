@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "node_modules\\.bin\\cypress run"
-    
+    "openCypress": "node_modules\\.bin\\cypress open",
+    "tests":"node_modules\\.bin\\cypress run --record --key 8029a2b3-22f0-4b6c-bcd3-56fcaabf9e21"  
   },
   "author": "Darshan",
   "license": "ISC",
